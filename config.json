@@ -1,0 +1,7 @@
+{
+  "nfs_dir": "/nfs/kms_demo",
+  "local_dir": "~/.local_kms",
+  "build_secret_hex": "aaaaaaaaaaaaaaaa",
+  "bind_attrs": ["bios", "baseboard", "uuid"],
+  "os_type": "windows"
+}
